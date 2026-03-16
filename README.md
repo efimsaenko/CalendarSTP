@@ -8,7 +8,7 @@ Telegram-бот для автоматического сбора, фильтра
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/efikk/CalendarSTP.git
+git clone https://github.com/efimsaenko/CalendarSTP.git
 cd CalendarSTP
 pip install aiogram apscheduler openpyxl pandas
 ```
