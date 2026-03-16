@@ -1,0 +1,7 @@
+BOT_TOKEN=8021606501:AAFGdltF9qUkPAtx7po92VuHzJYwbcijCTk
+OPENAI_API_KEY=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
+USE_GPT=0
+GPT_MODEL=gpt-4o-mini
+ADMIN_CHAT_ID=356119356
+CHROME_PATH=C:\Users\efim\PycharmProjects\CallendarJoger\chrome-win64\chrome.exe
+CHROMEDRIVER_PATH=C:\Users\efim\PycharmProjects\CallendarJoger\chromedriver-win64\chromedriver.exe

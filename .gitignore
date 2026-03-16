@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Данные — не коммитим
+data/
+logs/
+output_excels/
+
+# Конфиденциальное — никогда не коммитим
+config.txt
+users.json
+bot.lock
+
+# Chrome и драйвер — бинарники, не нужны в репо
+chrome-win64/
+chromedriver-win64/
+
+# Временные и служебные файлы
+data/load_level.txt
+*.bak
+*.tmp
+*.log
+
+# Excel выходные файлы
+*.xlsx
+!Календарь_Событий.xlsx
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
